@@ -5,6 +5,10 @@ kjdsviwbnvbwiov
 
 
 
+<<<<<<< HEAD
 
 
  nvkskvsovjsojovsvnaovaov
+=======
+ nvskvnsvnsvnskvnkvssvn
+>>>>>>> master
