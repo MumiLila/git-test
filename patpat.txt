@@ -3,6 +3,7 @@ ndvknnomvnvk
 nsvknosivniovn
 
 
+<<<<<<< HEAD
 
 
 
@@ -13,3 +14,7 @@ kdhskskskvnskvnskvnsvksvnskvns
 dvnszsmvnmnv ndkjvnszkvnskvnvknkz
 nkdnbknbkdnbkanbkbnskbmskvnskbznk
 jdsnvsknvkzsnskvnskvnskvnskvnkvnbn
+=======
+nkdnbknbkdnbkanbkbnskbmskvnskbznk
+jdsnvsknvkzsnskvnskvnskvnskvnkvnbn
+>>>>>>> abbf2e3e8d8fafe351bacd2f54c46c6c06152032
